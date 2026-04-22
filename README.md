@@ -35,4 +35,4 @@ ends mid-2012
 - Dashboard design with KPI callout boxes
 
 ## Dashboard Preview
-![Dashboard](walmart-dashboard-preview)
+![Dashboard](walmart-dashboard-preview.png)
