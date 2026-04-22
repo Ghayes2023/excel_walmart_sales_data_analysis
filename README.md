@@ -1,4 +1,4 @@
-# Walmart Sales Data Analysis — Excel Dashboard
+# Walmart Sales Data Analysis Excel Dashboard
 
 ## Overview
 An exploratory data analysis of Walmart's weekly sales data across 45 stores from 2010–2012, 
@@ -6,7 +6,7 @@ built entirely in Microsoft Excel. This project demonstrates data cleaning, pivo
 correlation analysis, and interactive dashboard design.
 
 ## Dataset
-- **Source:** [Kaggle — Walmart Dataset](https://www.kaggle.com/datasets/yasserh/walmart-dataset)
+- **Source:** [Kaggle Walmart Dataset](https://www.kaggle.com/datasets/yasserh/walmart-dataset)
 - **Size:** 6,435 rows across 45 stores
 - **Fields:** Store, Date, Weekly Sales, Holiday Flag, Temperature, Fuel Price, CPI, Unemployment
 
@@ -22,7 +22,7 @@ likely understates the true holiday effect given consumer pre-holiday shopping b
 - **December and November** are the strongest sales months, while September is the weakest
 - A correlation matrix across macro factors (unemployment, CPI, fuel price, temperature) revealed 
 weak relationships with weekly sales, suggesting Walmart's revenue is relatively resilient to 
-macroeconomic conditions — consistent with its positioning as an everyday essentials retailer
+macroeconomic conditions, consistent with its positioning as an everyday essentials retailer
 - **2012 sales appear lower** than 2010–2011 but this is due to incomplete data; the dataset 
 ends mid-2012
 
